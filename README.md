@@ -25,19 +25,19 @@ This repository contains the necessary files to run macOS on the Huawei MateBook
 
 ## Working Devices
 
-- [✓] **Keyboard:** Fully working with shortcut buttons.
-- [✓] **Trackpad:** Fully working with multiple gestures.
-- [✓] **Speakers:** Works well.
-- [✓] **Display:** Brightness is adjustable.
-- [✓] **Video output through USB-C:** Impressive!
-- [✓] **Audio Jack:** Audio is supported.
+- [x] **Keyboard:** Fully working with shortcut buttons.
+- [x] **Trackpad:** Fully working with multiple gestures.
+- [x] **Speakers:** Works well.
+- [x] **Display:** Brightness is adjustable.
+- [x] **Video output through USB-C:** Impressive!
+- [x] **Audio Jack:** Audio is supported.
 
 ## Non-Working Devices
 
-- [x] **Wifi:** No support for the wireless card.
-- [x] **Bluetooth:** No support for the wireless card.
-- [x] **Microphone:** Might be fixable (needs further investigation).
-- [x] **Fingerprint Sensor:** No support.
+- [ ] **Wifi:** No support for the wireless card.
+- [ ] **Bluetooth:** No support for the wireless card.
+- [ ] **Microphone:** Might be fixable (needs further investigation).
+- [ ] **Fingerprint Sensor:** No support.
 
 ## Prerequisites
 
