@@ -4,7 +4,7 @@
 
 This repository contains the necessary files to run macOS on the Huawei MateBook D13 laptop. This EFI configuration is created for [OpenCore](https://github.com/acidanthera/OpenCorePkg) bootloader.
 
-!!! I AM NOT RESPONSIBLE FOR ANY DAMAGE THAT CAN OCCUR ON YOUR PERSONAL DEVICE !!!
+!!! I AM NOT RESPONSIBLE FOR ANY DAMAGE THAT MAY OCCUR ON YOUR PERSONAL DEVICE !!!
 
 
 
