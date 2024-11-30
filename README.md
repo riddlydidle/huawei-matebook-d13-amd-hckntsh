@@ -6,9 +6,6 @@ This repository contains the necessary files to run macOS on the Huawei MateBook
 
 !!! I AM NOT RESPONSIBLE FOR ANY DAMAGE THAT CAN OCCUR ON YOUR PERSONAL DEVICE !!!
 
-/* <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/589157075985236045/1186022921651630120/sttsrnj.png?ex=6591bceb&is=657f47eb&hm=b4fee5facd67cdfd30bd501e2447348a247b7d63c0fd0297684aa4d5d3673fbc&" alt="Hackinteshg" class="nolink">
-</p> */
 
 
 ## Hardware Compatibility
