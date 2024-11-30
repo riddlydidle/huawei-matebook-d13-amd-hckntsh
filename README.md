@@ -4,11 +4,11 @@
 
 This repository contains the necessary files to run macOS on the Huawei MateBook D13 laptop. This EFI configuration is created for [OpenCore](https://github.com/acidanthera/OpenCorePkg) bootloader.
 
-!!! I AM NOT RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER MINE RUNS FINE FOR NOW LOL !!!
+!!! I AM NOT RESPONSIBLE FOR ANY DAMAGE THAT CAN OCCUR ON YOUR PERSONAL DEVICE !!!
 
-<p align="center">
+/* <p align="center">
   <img src="https://cdn.discordapp.com/attachments/589157075985236045/1186022921651630120/sttsrnj.png?ex=6591bceb&is=657f47eb&hm=b4fee5facd67cdfd30bd501e2447348a247b7d63c0fd0297684aa4d5d3673fbc&" alt="Hackinteshg" class="nolink">
-</p>
+</p> */
 
 
 ## Hardware Compatibility
@@ -16,16 +16,16 @@ This repository contains the necessary files to run macOS on the Huawei MateBook
 - **Laptop Model:** Huawei MateBook D13
 - **Processor:** Processor	AMD Ryzen 5 3500U
 - **Graphics:** AMD Radeon(TM) Vega 8 Graphics
-- **Wireless Card:** Realtek 8822CE [NO WORKIES]
-- **Audio:** Realtek ALC256 [NO INPUT]
-- **Trackpad:** ELAN POOP
+- **Wireless Card:** Realtek 8822CE [DOESN'T WORK]
+- **Audio:** Realtek ALC256 [NO INPUT, ONLY OUTPUT]
+- **Trackpad:** ELAN I2C/HID Trackpad
 
 ## Features
 
 - **Full QE/CI and Metal Support:** The Vega GPU is supported enough for daily use.
 - **Audio:** Audio output works but, no input loool
 - **Trackpad and Keyboard:** Trackpad and Keyboard is fully supported.
-- **Power Management:** Sleep, wake is working.
+- **Power Management:** Sleep, wake is working. The battery life is poor.
 
 ## Working Devices
 
@@ -47,21 +47,21 @@ This repository contains the necessary files to run macOS on the Huawei MateBook
 
 - Huawei MateBook D13
 - An EFI Partition (Can be on your USB Drive or a divided partition of any disk on computer. Anything from 150MB-500MB)
-- A Brain
+- A brain (optional)
 
 ## Installation Steps
 
 1. **Download the EFI Files:**
-   Clone this repository or download the ZIP file. Extract the contents to the EFI partition of your USB drive.
+   Clone this repository or download the ZIP file. Extract the contents to somewhere.
 
 2. **Copy the EFI Files:**
-   Copy the EFI Files. Your EFI drive should look like this: "X:/EFI"
+   Copy the EFI Folder. Your EFI drive should look like this: "X:/EFI"
 
 3. **Register the EFI File to your BIOS:**
    Uhh yeah.
 
 4. **Boot MacOS:**
-   omg!!! :3
+   Congrats.
 
 ## Credits
 
